@@ -1,0 +1,12 @@
+﻿body {
+    background-color:background: #ad5389;  background: -webkit-linear-gradient(to right, #3c1053, #ad5389); background: linear-gradient(to right, #3c1053, #ad5389); "
+}
+
+h1 {
+    text-align: center;
+    font-family: Pristina;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    
+}
